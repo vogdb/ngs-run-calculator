@@ -1,0 +1,33 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts",
+      "coverage/lcov-report/*.js",
+      "src/android",
+
+      "*.json",
+      "**/*.json",
+      "src/**/*.json"
+    ]
+  },
+  "rules": {
+    "object-literal-sort-keys": false,
+    "interface-name": [true, "never-prefix"],
+    "ordered-imports": false,
+    "jsx-no-lambda": false,
+    "member-access": false,
+    "no-unused-expression": false,
+    "jsx-boolean-value": false,
+    "max-classes-per-file": false,
+    "no-shadowed-variable": false,
+    "prefer-const": false,
+    "no-console": false,
+    "no-unused-variable": false
+  }
+}

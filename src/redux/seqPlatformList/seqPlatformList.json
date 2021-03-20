@@ -1,0 +1,103 @@
+[
+  {
+    "name": "NextSeq 500, Illumina",
+    "modes": {
+      "Mid Output Kit": {
+        "2x75": "19 Gbp",
+        "2x150": "39 Gbp"
+      },
+      "High Output Kit": {
+        "1x75": "30 Gbp",
+        "2x75": "60 Gbp",
+        "2x150": "120 Gbp"
+      }
+    }
+  },
+  {
+    "name": "MiSeq, Illumina",
+    "modes": {
+      "Reagent Kit v2": {
+        "2x25": "0.85 Gbp",
+        "2x150": "5.1 Gbp",
+        "2x250": "8.5 Gbp"
+      },
+      "Reagent Kit v3": {
+        "2x75": "3.8 Gbp",
+        "2x300": "15 Gbp"
+      },
+      "Reagent Kit v2 Micro": {
+        "2x150": "1.2 Gbp"
+      },
+      "Reagent Kit v2 Nano": {
+        "2x150": "0.3 Gbp",
+        "2x250": "0.5 Gbp"
+      }
+    }
+  },
+  {
+    "name": "HiSeq 2500, Illumina",
+    "modes": {
+      "HiSeq SBS V4, Single Flow Cell": {
+        "1x36": "72 Gbp",
+        "2x50": "200 Gbp",
+        "2x100": "400 Gbp",
+        "2x125": "500 Gbp"
+      },
+      "HiSeq SBS V4, Dual Flow Cell": {
+        "1x36": "144 Gbp",
+        "2x50": "400 Gbp",
+        "2x100": "800 Gbp",
+        "2x125": "1 Tbp"
+      },
+      "TruSeq SBS V3, Single Flow Cell": {
+        "1x36": "52 Gbp",
+        "2x50": "150 Gbp",
+        "2x100": "300 Gbp"
+      },
+      "TruSeq SBS V3, Dual Flow Cell": {
+        "1x36": "105 Gbp",
+        "2x50": "300 Gbp",
+        "2x100": "600 Gbp"
+      },
+      "HiSeq Rapid SBS Kit V2, Single Flow Cell": {
+        "1x36": "11 Gbp",
+        "2x50": "30 Gbp",
+        "2x100": "60 Gbp",
+        "2x150": "90 Gbp",
+        "2x250": "150 Gbp"
+      },
+      "HiSeq Rapid SBS Kit V2, Dual Flow Cell": {
+        "1x36": "22 Gbp",
+        "2x50": "60 Gbp",
+        "2x100": "120 Gbp",
+        "2x150": "180 Gbp",
+        "2x250": "300 Gbp"
+      }
+    }
+  },
+  {
+    "name": "Ion PGM, Thermo Fisher Scientific",
+    "modes": {
+      "Ion 314 Chip v2": {
+        "1x200": "50 Mbp",
+        "1x400": "100 Mbp"
+      },
+      "Ion 316 Chip v2": {
+        "1x200": "600 Mbp",
+        "1x400": "1 Gbp"
+      },
+      "Ion 318 Chip v2": {
+        "1x200": "1 Gbp",
+        "1x400": "2 Gbp"
+      }
+    }
+  },
+  {
+    "name": "Ion Proton, Thermo Fisher Scientific",
+    "modes": {
+      "Ion PI v3 Chip": {
+        "1x200": "10 Gbp"
+      }
+    }
+  }
+]
