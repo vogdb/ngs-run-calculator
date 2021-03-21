@@ -1,5 +1,6 @@
 ## About
 Calculator of the sequencing platform load. It helps to compute the proper number of samples for sequencing based on some input information.
+You can try it at [vogdb.github.io/ngs-run-calculator/](https://vogdb.github.io/ngs-run-calculator/).
 
 ## Build
 
